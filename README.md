@@ -4,15 +4,15 @@
 
 A 3D recreation of my mobile workstation, built in C++ and modern OpenGL. I drive over the road for a living, and I do my coursework on a board laid across the pull-out table and console of my truck cab, in front of a black light-blocking curtain. That setup became the final project: a laptop, a French press, a pen, a mouse, and a mouse mat on the board, all built from basic shapes, textured from photos I took of the real objects, and lit with the Phong lighting model.
 
-![Final 3D scene](screenshots/final-scene.png)
+![Final 3D scene](final-scene.png)
 
 ## Repository Contents
 
-| Folder | What's in it |
+| Item | What it is |
 |---|---|
-| `7-1_FinalProject/` | Final project source code (`Source/`), textures, and shaders |
-| `8-2_Assignment/` | Collision-based 2D animation (Breakout-style bricks, paddle, and physics) |
-| `screenshots/` | Rendered output from the final scene and the 2D animation |
+| `Source/` | Final project source code and the textures made from my own photos |
+| `CS330_Final_Design_Decisions.docx` | Design decisions document for the final project |
+| `final-scene.png` | Screenshot of the rendered final scene |
 
 ## Controls (Final Scene)
 
